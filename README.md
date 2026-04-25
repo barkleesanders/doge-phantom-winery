@@ -19,7 +19,9 @@ The full investigation is published as a 30-spread editorial magazine.
 | **Interactive HTML** | [`docs/magazine.html`](docs/magazine.html) | 106 KB |
 | **PDF (print-ready)** | [`docs/doge-quarterly-vol-2-final.pdf`](docs/doge-quarterly-vol-2-final.pdf) | 2.5 MB |
 
-**View the HTML directly via GitHub Pages:** *(enable Pages on this repo to publish)*
+**View the HTML magazine live via GitHub Pages:** https://barkleesanders.github.io/doge-phantom-winery/
+
+Pages are served from the [`docs/`](docs/) folder. The `magazine.html` is the 30-spread interactive edition; the PDF is the print-ready archival copy.
 
 ## 📂 Repository Contents
 
