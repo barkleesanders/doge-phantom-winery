@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temp files
+*.tmp
+*.bak
+
+# Build artifacts
+node_modules/
+__pycache__/
+*.pyc
+
+# Local env
+.env
+.env.local
