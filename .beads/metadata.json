@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "doge_phantom_winery",
+  "project_id": "4efd45cc-a638-4e91-83f6-7619150c1e5d"
+}
