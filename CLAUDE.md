@@ -62,8 +62,34 @@ _Add your build and test commands here_
 
 ## Architecture Overview
 
-_Add a brief overview of your project architecture_
+GitHub Pages publishes from **`/docs` only** (configured at repo level, source: `main` branch, path: `/docs`). The repo root holds `archive/`, `evidence/`, `submissions/`, `skill/` — these are NOT served by Pages.
+
+- Live URL: `https://barkleesanders.github.io/doge-phantom-winery/` → maps to `/docs/`
+- `archive/` (105 cached source pages, screenshots, PDFs) lives at repo root for git history clarity, NOT under `/docs/`
+- Anything in `docs/*.html` that needs to reference `archive/` MUST link to the GitHub repo URL, not a relative path
 
 ## Conventions & Patterns
 
-_Add your project-specific conventions here_
+### Linking to archive/ from docs/ HTML (MANDATORY)
+
+**NEVER use `../archive/...` relative paths from inside `docs/*.html`.** They 404 on the live Pages site because Pages doesn't see anything outside `/docs/`. This bit us once — fix in commit cd9af26 rewrote 79 broken links.
+
+Use GitHub repo URLs instead:
+
+| Target | URL pattern |
+|--------|-------------|
+| File (PDF, HTML, JSON, MD) | `https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/<path>` |
+| Folder | `https://github.com/barkleesanders/doge-phantom-winery/tree/main/archive/<path>` |
+
+PDFs render inline on github.com, HTML shows source, folders show file listing — all fine for "sourced links" UX.
+
+### Pre-push verification for docs/
+
+Before pushing changes to `docs/*.html`, run:
+
+```bash
+# Should return 0 — any hit is a future 404
+grep -c '"\.\./archive/' docs/*.html
+```
+
+If you add a NEW directory at repo root that needs to be linked from `docs/`, either (a) move it under `docs/`, or (b) link via the GitHub repo URL pattern above. Don't reach across the `/docs/` boundary with `../`.
