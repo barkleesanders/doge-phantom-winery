@@ -93,3 +93,31 @@ grep -c '"\.\./archive/' docs/*.html
 ```
 
 If you add a NEW directory at repo root that needs to be linked from `docs/`, either (a) move it under `docs/`, or (b) link via the GitHub repo URL pattern above. Don't reach across the `/docs/` boundary with `../`.
+
+### archive/INDEX.md and MANIFEST.json (MANDATORY)
+
+`archive/INDEX.md` lives at `archive/INDEX.md`. **Local-archive cells in INDEX.md MUST use full GitHub blob URLs**, not relative paths like `archive/court/X.pdf`. A relative `archive/...` from inside `archive/INDEX.md` resolves to `archive/archive/...` on github.com → 404. This bit us in commit 14d78f0.
+
+URL patterns for INDEX rows:
+
+| Cell | Pattern |
+|------|---------|
+| Local archive | `https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/<category>/<file>` |
+| Wayback snapshot | `https://web.archive.org/web/*/<url>` (search redirect — finds latest snapshot or shows search) |
+
+**Never use** `https://web.archive.org/web/2026*/<url>` — the `2026*` wildcard opens an empty calendar view, not a snapshot. Use `web/*/` instead, or query `https://archive.org/wayback/available?url=<url>` for the real timestamp.
+
+### Archive completeness honesty (MANDATORY)
+
+Every entry in `MANIFEST.json` has an `archive_status`:
+
+- ✅ full HTML / full PDF / JSON / PNG — real backup
+- 📝 note only — markdown summary because upstream blocked capture (Akamai/etc)
+- 🤖 bot-blocked — captured response is the bot challenge page, not real content (sub-1KB Incapsula stub)
+- 🔒 login-walled — LinkedIn / paywalled, can't archive without auth
+- 🔧 asset CDN — fonts / non-source assets
+- ❌ no archive — listed but never fetched
+
+**Rule:** if a fetch returns <800 bytes for HTML, contains `_Incapsula_Resource`, or is a CDN response, status MUST be set to the appropriate non-✅ value. Never claim "full backup" for a stub.
+
+To regenerate INDEX.md after manifest changes, use the regenerator pattern in commit 14d78f0 (was at `/tmp/regen-index.py` during fix; promote to `tools/regen-archive-index.py` if reused).
