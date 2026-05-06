@@ -1,0 +1,238 @@
+Hi Andrew,
+
+Thanks for catching this — you were right to push. I've now spent a couple of days re-running every primary-source venue I can reach, and I want to walk you through what's tightened up. Two things changed since you wrote: first, I corrected the original "Rose Lake invested in Ivanhoe Atlantic" claim because it was an inference, not a documented cap-table entry; second, in the process of digging I found something materially stronger than the equity question — primary SEC documentation that J. Peter Pham personally sits on both sides of the wall.
+
+All underlying documents are public in the repo at https://github.com/barkleesanders/doge-phantom-winery — file paths below.
+
+==============================================================
+THE BIG FINDING — PHAM IS MULTI-HATTED ACROSS THE STRUCTURE
+==============================================================
+
+Pham doesn't just advise Rose Lake. He simultaneously holds:
+
+  1. Director, High Power Exploration Inc. (HPX) — the Friedland-controlled
+     parent. SEC Form D filed June 18, 2024 (CIK 0001662195) lists Pham
+     under <relatedPersonInfo> with role <relationship>Director</relationship>.
+     Source: https://www.sec.gov/Archives/edgar/data/1662195/000166219524000001/primary_doc.xml
+     Repo: https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-hpx/hpx_form-d_2024-06-18.xml
+
+  2. Executive Chairman AND Interim CEO, Ivanhoe Atlantic Inc. — the
+     U.S. mining sub on whose behalf Yorktown Solutions and BHFS are
+     paid to lobby. Confirmed in Ivanhoe Atlantic's own press release
+     of March 23, 2026 ("Ambassador (Ret.) Dr. J. Peter Pham,
+     Executive Chairman and Interim CEO of Ivanhoe Atlantic Inc").
+     Source: https://ivanhoeatlantic.com/ivanhoe-atlantic-announces-key-u-s-board-appointments-for-guinea-subsidiary/
+     Repo: https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/ivanhoe-atlantic/board-appointments-press-release_2026-03-23.html
+
+  3. Director, Société des Mines de Fer de Guinée SA (SMFG) — the
+     Guinea concession-holder. Same March 23, 2026 press release.
+
+  4. Advisor, Rose Lake Capital Inc. — Wayback Machine snapshot of
+     roselakecap.com/team Oct 29, 2024 captures him as
+     "Advisor, Former United States Ambassador to the Great Lakes
+     and the Sahel Region of Africa".
+     Source: https://web.archive.org/web/20241029092132/https://www.roselakecap.com/team
+
+So your original question — "is there hard documentation Rose Lake holds equity in Ivanhoe Atlantic?" — turns out to be the wrong question. The answer is no on equity. But Pham is documented in primary SEC filings as a board director of the parent, the operating CEO of the subsidiary, and an advisor to Rose Lake's vehicle. That's tighter than passive equity participation — it's multi-hatted fiduciary capture by the same individual.
+
+Full memo with citations:
+  https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/PHAM_DUAL_HAT.md
+
+==============================================================
+SAME PRESS RELEASE — THREE FORMER U.S. AMBASSADORS NOW ON SMFG BOARD
+==============================================================
+
+The March 23, 2026 announcement also names two more retired ambassadors
+to the Guinea subsidiary's board, all with prior U.S. government Africa
+portfolios:
+
+  - Amb. (Ret.) Patricia Moller — former U.S. Ambassador to Burundi
+    (2006-2009) and Guinea (2010-2012); now SMFG Board Chair
+    (joined 2019)
+  - Amb. (Ret.) Tibor P. Nagy, Jr. — former U.S. Ambassador to Guinea
+    AND Ethiopia; former Acting Under Secretary of State for Management;
+    former Assistant Secretary of State for African Affairs (Trump-1)
+  - Pham — already covered above
+
+Plus:
+  - Bradley Doig — Non-Executive Director of Ivanhoe Atlantic and
+    COO of I-Pulse Inc. (note: he appears as "Doig Bradley" on the
+    HPX Form D, with first/last name reversed)
+  - Kevin McLean — COO of Ivanhoe Atlantic
+
+Three retired ambassadors with Africa portfolios all sit on the same
+private mining-concession board.
+
+==============================================================
+WHAT I CORRECTED
+==============================================================
+
+The original "Rose Lake invested in Ivanhoe Atlantic" claim was an
+inference from Pham's overlapping roles, not a documented cap-table
+entry. No primary record I can locate places Rose Lake Capital in the
+Ivanhoe Atlantic cap table. EVIDENCE.md and NETWORK.md now reflect
+the corrected framing.
+
+Full correction memo:
+  https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md
+
+==============================================================
+NEGATIVE CONFIRMATIONS (worth knowing what *isn't* there)
+==============================================================
+
+These ate a lot of time, but ruling them out matters:
+
+  - Jersey FSC pulled all 25 historical filings on Euronimba Limited
+    #49971 (£0 each via myRegistry account). Annual Return of Feb 19,
+    2020 shows HPX Nimba Holdings Inc. (BVI, Craigmuir Chambers,
+    Tortola) as 100% holder of Euronimba (20,753,489 ordinary shares).
+    No Mynett, Hailer, Hoffman, or Rose Lake-affiliated person in any
+    of the 25 documents. Cap table runs through Friedland's BVI sub,
+    not the Mynett orbit.
+    Memo + cross-check verification:
+      https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/EURONIMBA_DEEP_DIVE.md
+      https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/jersey-fsc-euronimba/order-receipts-verification.md
+
+  - SES SPAC (Ivanhoe Capital Acquisition Corp., CIK 0001819142)
+    10-K for FY2020, filed March 31, 2021, discloses a 39-entity
+    Friedland-controlled portfolio. HPX Nimba Holdings Inc. is on
+    that list under "Asset holding / Director" — primary SEC
+    confirmation that the BVI sub exists and that Friedland sits
+    on its board. None of the 39 entities is Mynett-affiliated.
+    Memo: https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/FRIEDLAND_PORTFOLIO_SES_10K.md
+    Source: https://www.sec.gov/Archives/edgar/data/1819142/000110465921044345/tm2111066d1_10k.htm
+
+  - MIGA $123.3M Nimba political-risk guarantee. Board approved
+    February 18, 2021; issued March 12, 2021; expired March 11, 2025.
+    Erik Bethel served as US Alt. Exec. Director only 2018-2020,
+    so he was NOT on the Board for the Feb 2021 vote (eliminates
+    one revolving-door theory).
+    Memo: https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/MIGA_BOARD_APPROVAL_TIMING.md
+    Source: https://www.miga.org/project/nimba-iron-ore-0
+
+  - BHFS LD-203 sweep (clean negative): pulled 1,777 contribution
+    line items across all 7 pages of Brownstein Hyatt's 2024 LD-203
+    filings. Zero hits for ILHAN, OMAR, MYNETT, HAILER, PHAM,
+    CARL-YODER, DIEKMAN, MADDOX. No 2024-reported BHFS contributions
+    into Mynett-adjacent committees.
+    Memo: https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/BHFS_LD203_NEGATIVE.md
+
+  - Yorktown Solutions LD-203 (clean negative): every 2024 + 2025
+    semi-annual report has empty contribution_items array. Vajdich/
+    Yorktown swore zero FECA contributions during $1M+/year of
+    Ivanhoe Atlantic lobbying. Either it's true (suspicious for a
+    partner-level Hill influencer) or the LD-203s are deficient.
+
+  - FARA, House LDA, OpenOwnership Register, Liberia LEITI BO
+    portal — zero Rose Lake registrations. GLEIF (12.8GB global
+    LEI registry, downloaded) — zero LEIs across the entire
+    HPX/Ivanhoe orbit despite $325M+ in private placements,
+    which is unusual.
+
+  - Comer's Feb 5, 2026 House Oversight letter to Mynett does not
+    mention Ivanhoe Atlantic, HPX, Liberia, Guinea, Pham, or
+    Friedland. Comer's actual quote: "these companies do not
+    publicly list their investors or where their money comes from."
+    Comer's Feb 19, 2026 deadline came and went with no production
+    and no follow-up subpoena.
+
+  - Mohd v. eStCru complaint (Sacramento Superior 23CV010043) is
+    scoped strictly to wine fraud — no cross-reference to other
+    Mynett vehicles.
+
+==============================================================
+INDEPENDENTLY PUBLISHABLE FINDINGS
+==============================================================
+
+Separate from the Pham dual-hat story, these stand on their own:
+
+1. $1.56M+ in registered Ivanhoe Atlantic federal lobbying through
+   Yorktown Solutions ($120K/quarter since May 2023) and Brownstein
+   Hyatt ($50K/quarter since Q4 2023). Senate LDA API dump:
+   https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/lda-filings/lda-api_ivanhoe-atlantic_full.json
+
+2. Samantha Carl-Yoder went from BHFS lobbyist for Ivanhoe Atlantic
+   (Q4 2023 - Q1 2026, 27 months) directly to Ivanhoe Atlantic
+   non-executive director on Feb 17, 2026 — clean revolving-door
+   optics.
+
+3. MIGA $123.3M Nimba guarantee expired March 11, 2025. When the
+   Liberian House ratified the rail concession on December 11, 2025,
+   the political-risk insurance backstop was no longer in force.
+   Haven't seen this published.
+
+4. The Australian IPO that would have produced an ASX
+   substantial-shareholders disclosure was shelved December 16, 2025
+   specifically because of the China-CCP scrutiny from Moolenaar's
+   Dec 9 letter. So the cap-table prospectus that would settle the
+   equity question never lodged. Source: Capital Brief
+   2025-12-16, cached at:
+   https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/capital-brief_ivanhoe-asx-shelved_2025-12-16.html
+
+5. HPX has moved its operational seat from Vancouver to London —
+   2024 Form D registers issuer address at "c/o HPX Mines (UK)
+   Limited, 15/16 Pembroke Mews, London W8 6ER". The HPX board
+   as of June 18, 2024 is no longer Friedland — it's On Yip Patrick
+   Tsang (Tsangs Group HK family office Chairman), Kenneth Lau,
+   David Bohem, Doig Bradley (= Bradley Doig), Bronwyn Barnes,
+   Robin Sandenburgh, and Pham.
+
+6. HPX 2024 Reg D 506(b) total raise: $324,517,914 offering;
+   $193,011,320 sold to 14 accredited investors; $131,506,594
+   remaining. Investor names not disclosed on Form D. Date of
+   first sale: June 3, 2024.
+
+7. Mynett's full LLC portfolio is larger than my dossier originally
+   covered. OpenCorporates officer search returns 17 entities
+   named on him: Mynett Group (The) LLC (DC 2014-2019);
+   E Street Group LLC (DC + 4 state branches); ESTREETCO LLC
+   (separate from E Street Group — CA parent + 6 state branches +
+   UK Limited at 1 Kings Ave London); ESTCRU LLC (CA + NM + WV);
+   EST VENTURES LLC (DC, with Hailer as beneficial owner);
+   Rose Lake Capital LLC (DE + revoked DC #C00007470247).
+
+8. eStCru LLC was administratively terminated in California on
+   April 4, 2026 — 9 days after Omar's amended FD wrote it down
+   to zero net value. Washington Times reported April 25, 2026.
+
+==============================================================
+TIER 1 STATUS (10 parallel threads pursued)
+==============================================================
+
+Of 10 leads I tried to chase post-Kerr-correction:
+  - 6 resolved (Pham dual-hat, Friedland-portfolio-clean,
+    MIGA-Bethel-negative, BVI-via-SES-10K, Pfeffer-IE-S1,
+    Derrough-now-Jefferies-not-Moelis)
+  - 2 partial (Wittenstein name disambiguation — current Ilhan
+    for Congress treasurer is KATE Wittenstein per FEC, may or
+    may not be related to Lauren Wittenstein at Mynett's PR firm
+    Inversion Strategies; HPX 14-investor identification still
+    open)
+  - 2 open (Justin Pratt full-name verification — Wayback never
+    captured his bio, Rose Lake team page has him but no detail;
+    BVI registry direct pull blocked)
+
+Full Tier 1 memo:
+  https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/TIER_1_FINDINGS.md
+
+Cumulative state of repo:
+  https://github.com/barkleesanders/doge-phantom-winery/tree/main/evidence/2026-05-followup-kerr
+
+11 standalone memos there, all with primary citations. Plus
+archive/ at repo root with the actual SEC filings, Jersey FSC
+PDFs, MIGA pages, court filings, etc.
+
+==============================================================
+HAPPY TO TALK
+==============================================================
+
+Your number's in your signature; I can call any time today or
+tomorrow. Or barkleesanders@gmail.com if email is faster.
+
+The Pham dual-hat finding is the part I think genuinely advances
+the story past where the dossier was. The original equity claim
+was inferential and I corrected it; what replaced it is more
+specific and more sourced.
+
+Best,
+Barklee
