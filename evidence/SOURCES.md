@@ -230,11 +230,53 @@ If you find a broken link, the underlying document still exists in:
 - Wayback Machine (web.archive.org)
 - DOJ press releases archive (justice.gov)
 
-**Compiled:** April 25, 2026 · **Last audit:** May 6, 2026
+**Compiled:** April 25, 2026 · **Last audit:** May 6, 2026 (Round 4 inclusive)
 
 ---
 
-## 📚 Primary documents added in May 6, 2026 audit round
+## 📚 Round 3-4 Primary Documents (May 6, 2026)
+
+These were added in the deeper investigation rounds after the Kerr correction:
+
+### SES SPAC 10-K (Friedland 39-entity portfolio + HPX Nimba Holdings directorship)
+- **Ivanhoe Capital Acquisition Corp. Form 10-K** (CIK 0001819142, accn 0001104659-21-044345, filed March 31, 2021): [archive HTML](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-spac-ses/ses-spac_10k_2020FY_filed-2021-03-31.htm) · [SEC source](https://www.sec.gov/Archives/edgar/data/1819142/000110465921044345/tm2111066d1_10k.htm)
+- **Friedland portfolio extraction memo**: [evidence/2026-05-followup-kerr/FRIEDLAND_PORTFOLIO_SES_10K.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/FRIEDLAND_PORTFOLIO_SES_10K.md)
+
+### HPX 2024 Form D (the 14-investor $324.5M raise + Pham as Director)
+- **Form D filed June 18, 2024** (CIK 0001662195, accn 0001662195-24-000001): [archive XML](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-hpx/hpx_form-d_2024-06-18.xml) · [SEC source](https://www.sec.gov/Archives/edgar/data/1662195/000166219524000001/primary_doc.xml)
+- **Pham dual-hat memo**: [evidence/2026-05-followup-kerr/PHAM_DUAL_HAT.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/PHAM_DUAL_HAT.md)
+- **HPX Nimba Holdings directorship memo**: [evidence/2026-05-followup-kerr/HPX_NIMBA_HOLDINGS_DIRECTORSHIP.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/HPX_NIMBA_HOLDINGS_DIRECTORSHIP.md)
+
+### Ivanhoe Atlantic March 23, 2026 board appointments press release (Pham as Executive Chairman + 3 ambassadors on SMFG)
+- **Press release archive**: [archive HTML](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/ivanhoe-atlantic/board-appointments-press-release_2026-03-23.html) · [Source](https://ivanhoeatlantic.com/ivanhoe-atlantic-announces-key-u-s-board-appointments-for-guinea-subsidiary/)
+
+### Ivanhoe Electric S-1 (Dec 27, 2022 — Pfeffer 21,781 shares)
+- **S-1 archive**: [archive HTML](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-ivanhoe-electric/ivanhoe-electric_s1_2022-12-27.htm) · [SEC source](https://www.sec.gov/Archives/edgar/data/1879016/000110465922130234/ie-20220930xs1.htm)
+- **Pfeffer memo**: [evidence/2026-05-followup-kerr/PFEFFER_IVANHOE_ELECTRIC.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/PFEFFER_IVANHOE_ELECTRIC.md)
+
+### MIGA Nimba ESRS (Feb 18, 2021 Board approval date)
+- **Environmental and Social Review Summary**: [archive HTML](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/miga/miga_nimba-iron-ore-0_esrs.html) · [Source](https://www.miga.org/project/nimba-iron-ore-0)
+- **Bethel timing memo**: [evidence/2026-05-followup-kerr/MIGA_BOARD_APPROVAL_TIMING.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/MIGA_BOARD_APPROVAL_TIMING.md)
+
+### Jersey FSC — Euronimba Limited #49971 (25 documents £0 each via myRegistry)
+- **Order receipt verification**: [archive/jersey-fsc-euronimba/order-receipts-verification.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/jersey-fsc-euronimba/order-receipts-verification.md)
+- **PDFs directory**: [archive/jersey-fsc-euronimba/pdfs/](https://github.com/barkleesanders/doge-phantom-winery/tree/main/archive/jersey-fsc-euronimba/pdfs)
+- **OCR text dump**: [archive/jersey-fsc-euronimba/all-documents-ocr.txt](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/jersey-fsc-euronimba/all-documents-ocr.txt)
+- **Download metadata**: [archive/jersey-fsc-euronimba/download-urls.json](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/jersey-fsc-euronimba/download-urls.json)
+- **Deep-dive memo**: [evidence/2026-05-followup-kerr/EURONIMBA_DEEP_DIVE.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/EURONIMBA_DEEP_DIVE.md)
+- **Live Jersey FSC entity record**: https://www.jerseyfsc.org/registry/registry-entities/entity/195566
+
+### LDA negative-sweep confirmations
+- **BHFS LD-203 sweep memo (1,777 line items, zero hits)**: [evidence/2026-05-followup-kerr/BHFS_LD203_NEGATIVE.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/BHFS_LD203_NEGATIVE.md)
+- **LDA contributions API**: https://lda.senate.gov/api/v1/contributions/?registrant_name=Brownstein+Hyatt&filing_year=2024
+
+### Tier 1 thread investigation memo + final reply to Kerr
+- **TIER_1_FINDINGS.md** (10 parallel-thread investigation results): [evidence/2026-05-followup-kerr/TIER_1_FINDINGS.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/TIER_1_FINDINGS.md)
+- **REPLY_TO_KERR_v2.txt** (final email body sent to Andrew Kerr 2026-05-06): [evidence/2026-05-followup-kerr/REPLY_TO_KERR_v2.txt](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/REPLY_TO_KERR_v2.txt)
+
+---
+
+## 📚 Primary documents added in May 6, 2026 audit round (Rounds 1-2)
 
 All locally cached in `archive/` after Andrew Kerr (Washington Free Beacon) flagged the Rose Lake → Ivanhoe Atlantic equity overreach.
 

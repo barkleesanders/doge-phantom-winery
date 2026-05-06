@@ -187,6 +187,63 @@ Each row maps an original URL to its GitHub-hosted archive copy and a Wayback Ma
 
 ---
 
+## ROUND 3-4 ARCHIVES (May 6, 2026)
+
+Newer subfolders added during the deeper investigation rounds. These contain primary SEC filings, Jersey FSC documents, the Ivanhoe Atlantic March 2026 press release, and the MIGA ESRS that closed the central evidentiary gaps.
+
+### sec-hpx (1 source)
+| # | Source URL | Local archive (GitHub) | Status |
+|---|---|---|---|
+| 1 | [https://www.sec.gov/Archives/edgar/data/1662195/000166219524000001/primary_doc.xml](https://www.sec.gov/Archives/edgar/data/1662195/000166219524000001/primary_doc.xml) | [hpx_form-d_2024-06-18.xml](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-hpx/hpx_form-d_2024-06-18.xml) | ✅ full XML (HPX 2024 Form D — Pham listed as Director, $324.5M raise to 14 investors) |
+
+### sec-spac-ses (1 source)
+| # | Source URL | Local archive (GitHub) | Status |
+|---|---|---|---|
+| 1 | [https://www.sec.gov/Archives/edgar/data/1819142/000110465921044345/tm2111066d1_10k.htm](https://www.sec.gov/Archives/edgar/data/1819142/000110465921044345/tm2111066d1_10k.htm) | [ses-spac_10k_2020FY_filed-2021-03-31.htm](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-spac-ses/ses-spac_10k_2020FY_filed-2021-03-31.htm) | ✅ full HTML (745KB; SES SPAC 10-K with 39-entity Friedland portfolio table inc. HPX Nimba Holdings Inc. directorship) |
+
+### sec-ivanhoe-electric (1 source)
+| # | Source URL | Local archive (GitHub) | Status |
+|---|---|---|---|
+| 1 | [https://www.sec.gov/Archives/edgar/data/1879016/000110465922130234/ie-20220930xs1.htm](https://www.sec.gov/Archives/edgar/data/1879016/000110465922130234/ie-20220930xs1.htm) | [ivanhoe-electric_s1_2022-12-27.htm](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-ivanhoe-electric/ivanhoe-electric_s1_2022-12-27.htm) | ✅ full HTML (7.1MB; Daniel Pfeffer named in selling-shareholder table with 21,781 shares) |
+
+### ivanhoe-atlantic (1 source)
+| # | Source URL | Local archive (GitHub) | Status |
+|---|---|---|---|
+| 1 | [https://ivanhoeatlantic.com/ivanhoe-atlantic-announces-key-u-s-board-appointments-for-guinea-subsidiary/](https://ivanhoeatlantic.com/ivanhoe-atlantic-announces-key-u-s-board-appointments-for-guinea-subsidiary/) | [board-appointments-press-release_2026-03-23.html](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/ivanhoe-atlantic/board-appointments-press-release_2026-03-23.html) | ✅ full HTML (76KB; Pham confirmed as Executive Chairman + Interim CEO; Moller, Pham, Nagy named to SMFG board) |
+
+### miga (additional document)
+| # | Source URL | Local archive (GitHub) | Status |
+|---|---|---|---|
+| 2 | [https://www.miga.org/project/nimba-iron-ore-0](https://www.miga.org/project/nimba-iron-ore-0) | [miga_nimba-iron-ore-0_esrs.html](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/miga/miga_nimba-iron-ore-0_esrs.html) | ✅ full HTML (138KB; Environmental and Social Review Summary with Feb 18 2021 Board approval date) |
+
+### jersey-fsc-euronimba (25 PDFs + OCR + cross-check verification)
+Full 25-PDF order on Euronimba Limited #49971 from Jersey FSC myRegistry, all £0.00 transactions under TR1995483.
+
+| # | What | Local archive (GitHub) | Status |
+|---|---|---|---|
+| 1 | 25 PDF directory | [archive/jersey-fsc-euronimba/pdfs/](https://github.com/barkleesanders/doge-phantom-winery/tree/main/archive/jersey-fsc-euronimba/pdfs) | ✅ all 25 PDFs, total 11MB |
+| 2 | OCR'd text dump (all 25 documents) | [all-documents-ocr.txt](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/jersey-fsc-euronimba/all-documents-ocr.txt) | ✅ 279KB, 7,528 lines |
+| 3 | Download metadata + URLs | [download-urls.json](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/jersey-fsc-euronimba/download-urls.json) | ✅ JSON |
+| 4 | Order receipt cross-check verification | [order-receipts-verification.md](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/jersey-fsc-euronimba/order-receipts-verification.md) | ✅ 25/25 emails ↔ 25 PDFs ↔ 25 IN-references |
+| 5 | Live Jersey FSC entity page | [jerseyfsc.org entity 195566](https://www.jerseyfsc.org/registry/registry-entities/entity/195566) | live registry |
+
+### Followup memo files (evidence/2026-05-followup-kerr/)
+| # | Memo | GitHub link |
+|---|---|---|
+| 1 | CORRECTION_AND_NEW_FINDINGS.md (Round 1) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md) |
+| 2 | EURONIMBA_DEEP_DIVE.md (Round 2) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/EURONIMBA_DEEP_DIVE.md) |
+| 3 | TIER_1_FINDINGS.md (Round 3) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/TIER_1_FINDINGS.md) |
+| 4 | HPX_NIMBA_HOLDINGS_DIRECTORSHIP.md (Round 3) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/HPX_NIMBA_HOLDINGS_DIRECTORSHIP.md) |
+| 5 | FRIEDLAND_PORTFOLIO_SES_10K.md (Round 3) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/FRIEDLAND_PORTFOLIO_SES_10K.md) |
+| 6 | MIGA_BOARD_APPROVAL_TIMING.md (Round 3) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/MIGA_BOARD_APPROVAL_TIMING.md) |
+| 7 | PFEFFER_IVANHOE_ELECTRIC.md (Round 3) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/PFEFFER_IVANHOE_ELECTRIC.md) |
+| 8 | **PHAM_DUAL_HAT.md (Round 4 — primary finding)** | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/PHAM_DUAL_HAT.md) |
+| 9 | BHFS_LD203_NEGATIVE.md (Round 4) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/BHFS_LD203_NEGATIVE.md) |
+| 10 | REPLY_TO_KERR.md (initial draft) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/REPLY_TO_KERR.md) |
+| 11 | REPLY_TO_KERR_v2.txt (final email body sent 2026-05-06) | [link](https://github.com/barkleesanders/doge-phantom-winery/blob/main/evidence/2026-05-followup-kerr/REPLY_TO_KERR_v2.txt) |
+
+---
+
 ## How to add a new source
 
 1. Save the page locally under `archive/<category>/<slugified-filename>.<ext>`

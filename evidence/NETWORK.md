@@ -233,20 +233,63 @@ How every node connects to every other node. All links Exa-verified or independe
 
 ---
 
-## The Quadruple-Hatted Advisor: J. Peter Pham
+## The Quadruple-Hatted Advisor: J. Peter Pham (Updated May 6, 2026 — primary-source documentation)
 
-| Hat | Role | Source |
+| Hat | Role | Primary Source |
 |---|---|---|
-| 1 | Trump's former Africa Special Envoy (Sahel + Great Lakes 2018-2021) | State Dept biography |
-| 2 | HPX Chairman (parent of Ivanhoe Atlantic) | Liberian Observer byline |
-| 3 | Ivanhoe Atlantic Non-Executive Chairman | Liberian Observer Dec 11, 2025 ratification coverage |
-| 4 | Rose Lake Capital Advisor | Wayback Sept 2025 snapshot of roselakecap.com |
+| 1 | Former U.S. Special Envoy Great Lakes (2018-2020) + Sahel (2020-2021) | State Dept biography |
+| 2 | **Director, High Power Exploration Inc. (HPX)** — the Friedland-controlled mining parent | [SEC Form D filed 2024-06-18](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-hpx/hpx_form-d_2024-06-18.xml) (CIK 0001662195, primary_doc.xml) |
+| 3 | **Executive Chairman AND Interim CEO, Ivanhoe Atlantic Inc.** | [Ivanhoe Atlantic press release 2026-03-23](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/ivanhoe-atlantic/board-appointments-press-release_2026-03-23.html) |
+| 4 | **Director, Société des Mines de Fer de Guinée SA (SMFG)** — the Guinea concession-holder | Same Ivanhoe Atlantic press release |
+| 5 | Advisor, Rose Lake Capital Inc. | [Wayback team page Oct 29, 2024](https://web.archive.org/web/20241029092132/https://www.roselakecap.com/team) |
 
-**On December 9, 2024**, Pham published an op-ed in the Liberian Daily Observer pushing the Liberian government to ratify the Ivanhoe rail deal as "of strategic interest to the US" — while wearing all four hats simultaneously.
+Plus: Atlantic Council Distinguished Fellow + Krach Institute for Tech Diplomacy (Purdue) Senior Advisor + Ben Franklin Fellow.
 
-**The op-ed was published the same day** Moolenaar (House Select Committee on CCP) wrote his warning letter to State.
+**The "Rose Lake invested in Ivanhoe Atlantic" question turns out to be the wrong frame.** Pham doesn't just advise both firms — he holds a **board director seat at the parent**, runs the operating subsidiary as **Executive Chairman + Interim CEO**, and **sits on the Guinea concession-holder's board** — while simultaneously listed as an Advisor to Rose Lake Capital. That's tighter than passive equity participation. It's multi-hatted fiduciary capture by the same individual.
 
-The Liberian House ratified the deal on **December 11, 2025** — two days after the Moolenaar letter, and a year after Pham's op-ed.
+**On December 9, 2024**, Pham published an op-ed in the Liberian Daily Observer pushing the Liberian government to ratify the Ivanhoe rail deal as "of strategic interest to the US" — while wearing all the hats above simultaneously.
+
+**The op-ed was published the same day** Moolenaar (House Select Committee on CCP) wrote his warning letter to State. The Liberian House ratified the deal on **December 11, 2025** — two days after the Moolenaar letter.
+
+Full memo with all citations: [`evidence/2026-05-followup-kerr/PHAM_DUAL_HAT.md`](2026-05-followup-kerr/PHAM_DUAL_HAT.md)
+
+---
+
+## HPX Inc. Governance — June 18, 2024 Form D Snapshot
+
+The HPX board has shifted away from Friedland-direct control. Per the SEC Form D filed June 18, 2024 (CIK 0001662195), the directors and executive officer are:
+
+| Name | Role | Outside affiliations / background |
+|---|---|---|
+| On Yip Patrick Tsang | Director | Chairman of Tsangs Group, Hong Kong family office |
+| Kenneth Lau | Director | (HK finance) |
+| David Bohem | Director | (London-based) |
+| Doig Bradley (= Bradley Doig) | Director | COO of I-Pulse Inc. (Friedland tech-holdings co.); NED of Ivanhoe Atlantic Inc. |
+| Bronwyn Barnes | Executive Officer | Australian mining-industry NED |
+| Robin Sandenburgh | Director | (London-based) |
+| **J. Peter Pham** | **Director** | Former U.S. Special Envoy + Atlantic Council + Rose Lake advisor |
+
+**Issuer address: c/o HPX Mines (UK) Limited, 15/16 Pembroke Mews, London W8 6ER** — operational seat moved from Vancouver to London.
+
+**Reg D 506(b) round details**: $324,517,914 total offering · $193,011,320 sold to **14 accredited investors** as of June 18, 2024 · $131,506,594 remaining · date of first sale: 2024-06-03.
+
+**HPX Nimba Holdings Inc. (BVI)** — the structural pass-through that holds 100% of Euronimba Limited Jersey, which in turn holds 85% of SMFG Guinea — has Robert Friedland personally as Director per the SES SPAC (CIK 0001819142) Form 10-K filed March 31, 2021 ([archive](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-spac-ses/ses-spac_10k_2020FY_filed-2021-03-31.htm)). Address: Craigmuir Chambers, Road Town, Tortola VG1110, BVI.
+
+---
+
+## SMFG Guinea Subsidiary Board (post March 23, 2026 — three former US Ambassadors with Africa portfolios)
+
+Per Ivanhoe Atlantic press release of March 23, 2026 ([archive](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/ivanhoe-atlantic/board-appointments-press-release_2026-03-23.html)):
+
+| Member | Role | Africa-policy background |
+|---|---|---|
+| Amb. (Ret.) **Patricia Moller** | Chair (joined 2019) | Former U.S. Amb to Burundi (2006-2009) and Guinea (2010-2012) |
+| Amb. (Ret.) **J. Peter Pham** | Director | Former U.S. Special Envoy Great Lakes (2018-2020) + Sahel (2020-2021) |
+| Amb. (Ret.) **Tibor P. Nagy, Jr.** | Director | Former U.S. Amb to Guinea + Ethiopia; former Acting Under Secretary of State for Management; former Asst Secretary of State for African Affairs (Trump-1) |
+| Bradley Doig | Director | COO of I-Pulse Inc. (Friedland); NED of Ivanhoe Atlantic |
+| Kevin McLean | Director | COO of Ivanhoe Atlantic |
+
+**Three retired U.S. Ambassadors with prior Africa portfolios sit on the same private mining-concession board.** Whether their post-government work as SMFG board members runs afoul of 18 USC §207 ("revolving door" cooling-off provisions) depends on the specific scope of their pre-departure responsibilities and timing of these appointments.
 
 ---
 
