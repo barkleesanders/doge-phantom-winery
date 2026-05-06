@@ -84,3 +84,18 @@
 4. **HPX 14 Reg D investors** identity remains opaque
 5. **Rose Lake "Justin Pratt"** is the single most important ambiguity to resolve — could be a foreign-policy red flag (revolving-door violation) or just a typo
 
+
+
+---
+
+## Updates after second pass
+
+### Thread 7 — CORRECTION: Ilhan for Congress treasurer is **KATE WITTENSTEIN**, not Lauren
+Per the FEC's current committee record for C00680934 (https://www.fec.gov/data/committee/C00680934/), the treasurer is **WITTENSTEIN, KATE**. Earlier reference to "Lauren Wittenstein in her capacity as treasurer" (cited from MUR 7639 secondary coverage) appears to have been a name conflation. The Ilhan for Congress committee treasurer of record (current) is Kate Wittenstein. Whether Lauren Wittenstein (Inversion Strategies principal at Mynett's PR firm) and Kate Wittenstein are the same person, related, or unrelated is now an open question for the reporter to verify — but the FEC record is unambiguous.
+
+### Thread 5 — RESOLVED via SEC SPAC 10-K
+HPX Nimba Holdings Inc. is named in the SES SPAC 10-K (CIK 1819142, accession 0001104659-21-044345) as a Robert Friedland directorship — see [HPX_NIMBA_HOLDINGS_DIRECTORSHIP.md](HPX_NIMBA_HOLDINGS_DIRECTORSHIP.md). No longer requires BVI registry pull to confirm existence; Friedland personal directorship is documented in a SEC-filed annual report.
+
+### Thread 8 — Pratt: Wayback archive empty
+The CDX index for `roselakecap.com/justinpratt` returns `[]` — Wayback never captured the individual bio page. Only the team-page snapshot (Oct 29, 2024 capture) confirms his "Partner" title with no further detail. **The "5 Diplomats" headline stat on the team page** (Hailer/Mynett/Hoffman are not diplomats; Mestrich is banking; explicit diplomats listed are Pham, Ereli, Baucus = 3) suggests Pratt is being COUNTED as a diplomat in the firm's marketing, alongside one of Healy or Pratt being the 4th and another being the 5th. This circumstantially supports a State Dept / foreign-service background. The Jonathan Pratt name-conflation hypothesis remains open and worth direct verification with Mynett.
+
