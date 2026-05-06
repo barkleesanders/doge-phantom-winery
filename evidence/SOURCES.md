@@ -230,4 +230,57 @@ If you find a broken link, the underlying document still exists in:
 - Wayback Machine (web.archive.org)
 - DOJ press releases archive (justice.gov)
 
-**Compiled:** April 25, 2026 · **Updated:** As needed.
+**Compiled:** April 25, 2026 · **Last audit:** May 6, 2026
+
+---
+
+## 📚 Primary documents added in May 6, 2026 audit round
+
+All locally cached in `archive/` after Andrew Kerr (Washington Free Beacon) flagged the Rose Lake → Ivanhoe Atlantic equity overreach.
+
+### SEC Form D filings (HPX/Ivanhoe Atlantic + I-Pulse)
+- **HPX Form D 6/18/2024** (CIK 0001662195) — Pham named as Director, $324.5M offering: [archive/sec-form-d/hpx_form-d_2024-06-18.xml](../archive/sec-form-d/hpx_form-d_2024-06-18.xml) · [SEC source](https://www.sec.gov/Archives/edgar/data/1662195/000166219524000001/primary_doc.xml)
+- HPX Form D 4/12/2022: [archive/sec-form-d/hpx_form-d_2022-04-12.xml](../archive/sec-form-d/hpx_form-d_2022-04-12.xml)
+- HPX Form D 3/19/2021: [archive/sec-form-d/hpx_form-d_2021-03-19.xml](../archive/sec-form-d/hpx_form-d_2021-03-19.xml)
+- HPX Form D 11/29/2019: [archive/sec-form-d/hpx_form-d_2019-11-29.xml](../archive/sec-form-d/hpx_form-d_2019-11-29.xml)
+- HPX Form D 12/31/2015: [archive/sec-form-d/hpx_form-d_2015-12-31.xml](../archive/sec-form-d/hpx_form-d_2015-12-31.xml)
+- I-Pulse Form D 7/31/2025 (CIK 0001502126): [archive/sec-form-d/ipulse_form-d_2025-07-31.xml](../archive/sec-form-d/ipulse_form-d_2025-07-31.xml)
+- I-Pulse Form D 8/18/2021: [archive/sec-form-d/ipulse_form-d_2021-08-18.xml](../archive/sec-form-d/ipulse_form-d_2021-08-18.xml)
+
+### Court filings
+- **Mohd v. eStCru complaint (10/17/2023, Sacramento Superior 23CV010043)**: [PDF](../archive/court-filings/mohd-v-estcru_complaint_2023-10-17.pdf) · [text](../archive/court-filings/mohd-v-estcru_complaint_2023-10-17.txt) · [DocumentCloud source](https://s3.documentcloud.org/documents/24734828/wine-complaint-mynett.pdf)
+- **Comer letter to Mynett (2/5/2026)**: [PDF](../archive/court-filings/comer-letter-to-mynett_2026-02-05.pdf) · [oversight.house.gov source](https://oversight.house.gov/wp-content/uploads/2026/02/Letter-to-Timothy-Mynett-.pdf)
+- **Omar 2024 House Clerk Financial Disclosure**: [PDF](../archive/court-filings/omar_financial-disclosure_2024.pdf) · [house.gov source](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068415.pdf)
+
+### Senate LDA filings (Ivanhoe Atlantic federal lobbying)
+- **Full LDA API dump for client "Ivanhoe Atlantic"** (20 quarterly filings): [JSON](../archive/lda-filings/lda-api_ivanhoe-atlantic_full.json) · [API endpoint](https://lda.senate.gov/api/v1/filings/?client_name=Ivanhoe+Atlantic)
+- Yorktown Solutions LD-1 registration (5/19/2023) — Daniel Vajdich primary lobbyist
+- BHFS LD-1 registration (Q4 2023) — Samantha Carl-Yoder primary lobbyist
+- Quarterly LD-2 reports through Q1 2026
+
+### UK Companies House (Ivanhoe Atlantic UK Ltd / formerly Euronimba UK)
+- Company #08248083 overview: [HTML](../archive/uk-companies-house/ivanhoe-atlantic-uk-ltd_08248083_overview.html)
+- Officers (current + 22 historical): [HTML](../archive/uk-companies-house/ivanhoe-atlantic-uk-ltd_08248083_officers.html)
+- PSC ledger (0 active, ceased Euronimba Jersey #49971 in 2016): [HTML](../archive/uk-companies-house/ivanhoe-atlantic-uk-ltd_08248083_psc.html)
+- Filing history: [HTML](../archive/uk-companies-house/ivanhoe-atlantic-uk-ltd_08248083_filing-history.html)
+
+### MIGA (World Bank Group)
+- **Nimba Iron Ore project brief** ($123.3M guarantee, issued 3/12/2021, EXPIRED 3/11/2025): [HTML](../archive/miga/miga_nimba-iron-ore_project-brief_2021.html) · [miga.org source](https://www.miga.org/project/nimba-iron-ore-1)
+
+### News
+- **Capital Brief — Ivanhoe Atlantic ASX float shelved (12/16/2025)**: [HTML](../archive/capital-brief_ivanhoe-asx-shelved_2025-12-16.html) · [capitalbrief.com source](https://www.capitalbrief.com/article/ivanhoe-atlantic-shelves-300m-asx-float-amid-scrutiny-over-china-liberia-ties-9bc2d6ab-8938-45c7-8867-9539477a864f/)
+
+### Live primary registry searches (no caching, verified May 6, 2026)
+- **Delaware ICIS** — ROSE LAKE CAPITAL LLC, File 6954979: https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx
+- **Jersey FSC** — Euronimba Limited #49971: https://www.jerseyfsc.org/registry/registry-entities/entity/195566
+- **OpenCorporates DC entity** — Rose Lake Capital LLC branch C00007470247: https://opencorporates.com/companies/us_dc/C00007470247
+- **OpenCorporates Mynett officer search** (17 records): https://opencorporates.com/officers?q=Timothy+Mynett
+- **OpenCorporates Hailer officer search** (38 records): https://opencorporates.com/officers?q=William+Hailer
+
+### Negative confirmations (searched, returned no relevant matches)
+- **GLEIF SQLite** (12.8 GB global LEI registry, downloaded May 6, 2026 from `oo-bodsdata.s3.amazonaws.com/data/gleif_version_0_4/sqlite.zip`) — searched for Rose Lake, Mynett, Hoffman, HPX, High Power Exploration, Ivanhoe Atlantic, Euronimba, I-Pulse, SMFG, Ivanhoe Liberia. Zero LEIs.
+- **OpenOwnership Register** — closed Nov 29, 2024; bulk data limited to UK PSC + GLEIF. https://www.openownership.org/en/topics/open-ownership-register/
+- **Liberia LEITI Mining Beneficial Ownership portal** — searched for Ivanhoe / HPX / Iron, "No result found." https://www.leitidataportal.org/MiningOwnership
+- **Wayback Machine** — `bizapedia.com/de/rose-lake-capital-llc.html` not archived (CDX returned empty)
+- **FARA** — no Rose Lake / Mynett / Hoffman registration. https://efile.fara.gov/
+- **Senate LDA** — no Rose Lake / Mynett-as-lobbyist filings. https://lda.senate.gov/api/v1/filings/?client_name=Rose+Lake

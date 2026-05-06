@@ -180,12 +180,12 @@ This document maps each potentially applicable statute to (a) verbatim statute t
 ### Elements vs. evidence
 | Element | On-record evidence |
 |---|---|
-| (1) Acted as agent of foreign principal | ⚠️ J. Peter Pham simultaneously chaired HPX (parent) + Ivanhoe Atlantic + Rose Lake advisor + Trump Africa portfolio |
+| (1) Acted as agent of foreign principal | ⚠️ **CORRECTED 2026-05-06** — Pham IS documented as Director of HPX/Ivanhoe Atlantic per [SEC Form D 6/18/2024](../archive/sec-form-d/hpx_form-d_2024-06-18.xml) AND advisor to Rose Lake Capital per Sept 2025 Wayback. **However**, Rose Lake itself is NOT registered as Ivanhoe Atlantic's lobbyist — that role belongs to **Yorktown Solutions** (Daniel Vajdich, $120K/quarter) and **Brownstein Hyatt Farber Schreck** (Samantha Carl-Yoder, $50K/quarter), both openly LDA-registered with $1.56M+ disclosed. So the FARA theory below assumes activity by Pham personally, NOT Rose Lake as an entity. |
 | (2) In US territory | ✅ Pham's op-ed published in Liberian Daily Observer + State Dept communications |
-| (3) Without registration | ✅ No FARA filing surfaces in public databases for Rose Lake / HPX in connection with this activity |
+| (3) Without registration | ✅ No FARA filing surfaces in public databases for Rose Lake or for Pham personally; Yorktown Solutions and BHFS are LDA-registered (domestic), not FARA-registered (foreign-principal). The relevant question is whether Pham's activity meets the "acting on behalf of foreign principal" element under [22 USC §611(c)(1)](https://www.law.cornell.edu/uscode/text/22/611). |
 
-### The FARA theory
-If Rose Lake Capital acted as agent for HPX/Ivanhoe Atlantic in lobbying the State Department, US Embassy in Liberia, and the MIGA insurance backstop on behalf of foreign principals (Government of Guinea, Government of Liberia, Chinese-state-linked Ivanhoe Mines parent), the FARA registration requirement is straightforward.
+### The FARA theory (revised May 6, 2026)
+If **Pham personally** acted as agent for the Government of Guinea or Government of Liberia (or for HPX/Ivanhoe Atlantic acting on behalf of those foreign principals) in lobbying the State Department, US Embassy in Liberia, MIGA, or members of Congress regarding the rail concession — without FARA registration — the registration requirement is triggered. The original framing that "Rose Lake Capital acted as agent" overreached: there's no documented evidence Rose Lake itself engaged in foreign-principal advocacy. The defensible theory is Pham individually + the unregistered scope of Yorktown Solutions / BHFS lobbying activity if any tipped from domestic-LDA to FARA-required.
 
 ### Comparable convictions
 - Paul Manafort (Trump Russia) — convicted of FARA violations, 2018
@@ -216,7 +216,7 @@ Next expected event: California Franchise Tax Board suspension under Rev. & Tax.
 | 2 | **5 USC §13106** | Omar | Self-admitted contradiction; House Ethics already moving | Civil $50K cap; 1-yr criminal max if willful |
 | 3 | **18 USC §1001** | Omar / Mynett | The May 2025 ↔ April 2026 fork creates inevitable false-statement somewhere | 5 years per count |
 | 4 | **18 USC §1343** | Mynett / Hailer | Pattern across multiple investors (Mohd $300K + cannabis $1.2M + any new ones Comer surfaces) | **Wellesley: 10 yrs + $1M forfeiture**; Hunter: 11 mo for cmpgn-fund analog |
-| 5 | **22 USC §612 (FARA)** | Rose Lake principals | Pham's quadruple-hat conflict + State Dept advocacy without FARA registration | 5 years + $250K |
+| 5 | **22 USC §612 (FARA)** | Pham personally (not Rose Lake as entity — see corrected §8 above) | Pham's overlapping roles (HPX Director per SEC Form D + Rose Lake advisor per Wayback + Trump Africa Envoy) + State Dept advocacy without FARA registration | 5 years + $250K |
 | 6 | **31 USC §5336** | All entities | BOI not public — can't verify compliance from outside | $10K + $591/day + 2 yrs |
 | 7 | **52 USC §30114** | Omar / Mynett | DISMISSED in MUR 7639 — only fresh post-2021 conduct could revive | **Hunter: 11 mo**; **Jackson Jr: 30 mo + $750K** |
 
@@ -235,7 +235,7 @@ Next expected event: California Franchise Tax Board suspension under Rev. & Tax.
 
 **The most punitive charge** if pursued is §1343 wire fraud — *Wellesley/Bordeaux Cellars 10-year sentence* is the closest factual analog. Same week his sentencing landed (April 21, 2026), eStCru shut down. The Mohd case alone wouldn't get there; Comer's investigation discovering additional defrauded investors might.
 
-**The newest theory** is §612 FARA — if Rose Lake acted on behalf of HPX/Ivanhoe Atlantic to influence U.S. policy regarding Guinea/Liberia, the FARA registration requirement is cleanly triggered. Pham's quadruple hat is the key evidentiary fact.
+**The newest theory** is §612 FARA — narrowed (May 6, 2026) to **Pham personally** acting on behalf of the Government of Guinea or Liberia (or HPX/Ivanhoe Atlantic acting as agent for those governments) without FARA registration. Pham's documented HPX directorship (SEC Form D 6/18/2024) + Rose Lake advisor role (Wayback Sept 2025) + Trump Africa Envoy past role + December 9, 2024 op-ed in Liberian Daily Observer pushing rail-deal ratification are the key evidentiary facts. Note: the openly-LDA-registered $1.56M+ Yorktown Solutions + BHFS lobbying for Ivanhoe Atlantic is **domestic** lobbying, not FARA-relevant unless those firms in fact acted on behalf of a foreign principal as opposed to their stated US-corporate client.
 
 ---
 
@@ -251,4 +251,4 @@ Per the doge-service skill's hard rules: **never fabricate citations.** Every st
 
 ---
 
-**Compiled:** April 25, 2026 · See [`SOURCES.md`](SOURCES.md) for the master URL list.
+**Compiled:** April 25, 2026 · **Last audit:** May 6, 2026 (FARA section narrowed per [Kerr correction](2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md)) · See [`SOURCES.md`](SOURCES.md) for the master URL list.

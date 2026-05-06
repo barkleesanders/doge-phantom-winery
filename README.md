@@ -6,7 +6,7 @@
 
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-blue.svg)](LICENSE)
 [![Investigation Status: Public Record](https://img.shields.io/badge/Status-Public%20Record-green.svg)](#)
-[![Last Updated: 2026-04-25](https://img.shields.io/badge/Updated-2026--04--25-orange.svg)](#)
+[![Last Updated: 2026-05-06](https://img.shields.io/badge/Updated-2026--05--06-orange.svg)](#)
 
 ---
 
@@ -54,9 +54,9 @@ doge-phantom-winery/
 
 3. **SEC EDGAR Returns Zero Hits.** Direct API queries against `efts.sec.gov` for "Rose Lake Capital", "eStCru", "E Street Group", "Timothy Mynett", "William Hailer", "EstVenture", and "West Pike Inc" all returned **zero matching filings**. Yet Rose Lake's website previously claimed *"$60 billion AUM"* and its Terms-of-Service admits *"All investment offerings are done within exemptions allowed under the SEC."*
 
-4. **The Africa Conflict of Interest.** Rose Lake Capital's only known investment is **Ivanhoe Atlantic** — a $1.8 billion iron ore rail project in Guinea and Liberia. Omar served as Vice Chair of the House Foreign Affairs Subcommittee on Africa (which has direct jurisdiction over those exact two countries). The mining project's parent (Ivanhoe Mines) is **40% owned by Chinese-state-linked entities (CITIC + Zijin)** per a December 9, 2025 letter from Rep. John Moolenaar (Chair, House Select Committee on the CCP) to Secretary of State Rubio.
+4. **The Africa Personnel Overlap.** ⚠️ **CORRECTED 2026-05-06** (per Andrew Kerr / Washington Free Beacon): The previously published claim that "Rose Lake Capital's only known investment is Ivanhoe Atlantic" was an inference, not documented in primary records. **What IS documented:** Dr. J. Peter Pham simultaneously holds advisory standing at Rose Lake Capital (Sept 2025 Wayback) and a Director seat at HPX/Ivanhoe Atlantic (per [HPX SEC Form D filed 6/18/2024](archive/sec-form-d/hpx_form-d_2024-06-18.xml)). **What is NOT documented:** any equity link between Rose Lake and Ivanhoe Atlantic in any SEC, FARA, LDA, MIGA, UK Companies House, Jersey FSC, or DC corporate filing. What IS documented separately: Ivanhoe Atlantic operates a $1.8B iron ore rail project in Guinea and Liberia; Omar served as Vice Chair of the House Foreign Affairs Subcommittee on Africa with direct jurisdiction over those exact two countries; Ivanhoe Mines (parent) is **40% owned by Chinese-state-linked entities (CITIC + Zijin)** per Rep. Moolenaar's December 9, 2025 letter to Secretary Rubio. Full correction memo: [`evidence/2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md`](evidence/2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md).
 
-5. **The Quadruple-Hatted Advisor.** Dr. J. Peter Pham — listed on Rose Lake's Wayback team page — simultaneously serves as Chairman of HPX (Ivanhoe Atlantic's parent), Non-Executive Chairman of Ivanhoe Atlantic itself, advisor to Trump's Africa portfolio, and (per the Wayback snapshot) Rose Lake Capital advisor. He published an op-ed in the Liberian Daily Observer on December 9, 2024 publicly pressuring Liberia to ratify the rail deal — while holding all four hats.
+5. **The Quadruple-Hatted Advisor.** Dr. J. Peter Pham — listed on Rose Lake's Wayback team page (Sept 1, 2025 snapshot) — simultaneously serves as **Director of HPX/Ivanhoe Atlantic per [SEC Form D filed June 18, 2024](archive/sec-form-d/hpx_form-d_2024-06-18.xml)** (promoted to Executive Chairman + Interim CEO Feb 1, 2026 per company press release), advisor to Trump's Africa portfolio, and Rose Lake Capital advisor. He published an op-ed in the Liberian Daily Observer on December 9, 2024 publicly pressuring Liberia to ratify the rail deal — while holding all four hats. Note: this documents personnel overlap, NOT cap-table participation by Rose Lake Capital itself.
 
 6. **The MN Fraud Connection.** The Comer letter to Mynett opens: *"The Committee on Oversight and Government Reform is investigating widespread fraud in Minnesota's social services programs."* The $9 billion Minnesota Medicaid fraud (90%+ of charged defendants of Somali descent) traces to a COVID-era food bill **Omar sponsored** (HR 6187, MEALS Act), with proceeds laundered to **Kenya, UAE/Dubai, Istanbul, London**. Three of those four destinations match Comer's specific Item #4 in his letter to Mynett (UAE, Somalia, Kenya travel records).
 
@@ -129,7 +129,7 @@ Tools used:
 
 ## 🤝 Contributing
 
-This repository is a **frozen snapshot** of public-record evidence as of **April 25, 2026**.
+This repository is a **living snapshot** of public-record evidence. Last comprehensive line-by-line audit: **May 6, 2026** (post-Kerr correction round, see [`evidence/2026-05-followup-kerr/`](evidence/2026-05-followup-kerr/)).
 
 Issues and pull requests welcome for:
 - Broken links (URL rot is real)
@@ -156,5 +156,6 @@ Out of scope:
 ---
 
 **Compiled:** April 25, 2026
-**Investigators:** DOGE Service (8 rounds of public-record audit)
+**Last Audit:** May 6, 2026 — line-by-line claim review post-Kerr correction
+**Investigators:** DOGE Service (8 rounds of public-record audit + 1 correction round)
 **Repository:** This file is the entry point. Everything else is downstream of the receipts.

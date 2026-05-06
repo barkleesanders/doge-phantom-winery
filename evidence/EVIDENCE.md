@@ -42,6 +42,12 @@ Every claim in this file is tied to a specific URL in [`SOURCES.md`](SOURCES.md)
 | Terms-of-Service admits: "All investment offerings are done within exemptions allowed under the SEC" | [roselakecap.com/terms](https://www.roselakecap.com/terms) |
 | **SEC Form ADV filings: 0** | https://efts.sec.gov/LATEST/search-index?q=%22Rose+Lake+Capital%22&forms=ADV |
 | **SEC Form D filings: 0** | https://efts.sec.gov/LATEST/search-index?q=%22Rose+Lake+Capital%22 |
+| **Senate LDA filings: 0** (not registered as a federal lobbyist) | [LDA API direct query](https://lda.senate.gov/api/v1/filings/?client_name=Rose+Lake) |
+| **FARA registration: 0** (not registered as foreign agent) | [FARA E-File search](https://efile.fara.gov/) |
+| **GLEIF/LEI registration: 0** (no Legal Entity Identifier) | [OpenOwnership GLEIF SQLite May 2026 grep](evidence/2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md) |
+| **Delaware ICIS — ROSE LAKE CAPITAL LLC, File 6954979, formed 8/5/2022, Domestic LLC, Registered Agent VCorp Services LLC, 108 W. 13th Street Suite 100, Wilmington DE 19801** | Live Delaware ICIS search May 6, 2026 ([primary record](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx)) |
+| **DC corporate registry — Rose Lake Capital LLC qualified as Foreign LLC, native ID C00007470247 (EXTUID_4329642), filed Sept 26, 2022 — Status: Revoked.** Registered Address: **80 M St SE FL 1, Washington DC 20003** (WeWork Navy Yard). Business Classification: "private equity and venture capital management and holding company". **William Hailer named as beneficial owner** in DC qualifying filing. | [OpenCorporates DC entity page](https://opencorporates.com/companies/us_dc/C00007470247) |
+| **80 M St SE FL 1 Washington DC 20003 is shared with ESTREETCO LLC New York branch (active)** — same WeWork hosts Mynett's separately registered consultancy spinoff. | OpenCorporates entity records |
 | Officer/advisor bios scrubbed September-October 2025 | [NLPC analysis](https://nlpc.org/featured-news/max-baucus-other-big-shots-disappear-from-website-of-ilhan-omars-husbands-firm/) (NY Post December 27, 2025) |
 | Roselakecap.com: HTTP 404 on homepage | Live `curl -sI` April 25, 2026 |
 
@@ -157,7 +163,7 @@ Every claim in this file is tied to a specific URL in [`SOURCES.md`](SOURCES.md)
 | Ivanhoe Atlantic operates Kon Kweni iron ore project in Guinea | [Liberian Observer](https://www.liberianobserver.com/business/mining/key-rail-and-port-agreement-ratified-in-liberia/article_9b5e81a0-85b5-4041-ab13-4f2354ba75de.html) |
 | Project value: $1.8 billion (Yekepa-Buchanan rail-and-concession) | Liberian Observer |
 | HPX 2021 financing: $200M (mainly U.S. institutional investors, Friedland-backed) | [Liberian Observer Dec 28 2024 editorial](https://www.liberianobserver.com/opinion/editorials/after-high-expectations-on-attracting-investments-some-officials-are-undermining-the-president-the-question-is/article_30c4248a-c51e-11ef-8706-1f211286c83c.html) |
-| MIGA (World Bank arm) provided up to $123M political risk insurance | Liberian Observer |
+| MIGA (World Bank arm) issued $123.3M political risk guarantee to HPX directly on March 12, 2021 — coverage tenor 4 years — **EXPIRED March 11, 2025** (so no political-risk backstop was in force when Liberian Legislature ratified the rail concession Dec 11/18, 2025) | [MIGA Nimba Iron Ore project brief](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/miga/miga_nimba-iron-ore_project-brief_2021.html) |
 | 2022 Framework Agreement: HPX paid $37M upfront to GOL | Liberian Observer |
 | Mineral belt: ~17 BILLION tons of iron ore | Liberian Observer |
 | Theoretical market value: ~$2.38 TRILLION | Liberian Observer math |
@@ -168,8 +174,17 @@ Every claim in this file is tied to a specific URL in [`SOURCES.md`](SOURCES.md)
 | Robert Friedland personally pledged 94,100,000 (6.61%) Ivanhoe Mines shares as collateral for personal financing with US commercial bank | [Junior Mining Network Dec 31 2025](https://www.juniorminingnetwork.com/junior-miner-news/press-releases/397-tsx/ivn/194246-robert-friedland-provides-update-on-previously-disclosed-ivanhoe-mines-shareholdings-2.html) |
 | Liberian House ratified rail deal: December 11, 2025 (2 days after Moolenaar letter) | Liberian Observer |
 | Liberian Senate ratified: December 18, 2025 | Liberian Observer |
-| J. Peter Pham simultaneous roles: Trump's former Africa Special Envoy + HPX Chairman + Ivanhoe Atlantic Non-Executive Chairman + Rose Lake Capital advisor | [Liberian Observer](https://www.liberianobserver.com/news/trump-advisor-on-africa-hpx-chairman-says-aml-rail-monopoly-is-against-us-strategic-interests/article_af873562-b5e9-11ef-998a-6fda2b3ac1e3.html) + [Wayback Sept 2025](http://web.archive.org/web/20250901131055/https://www.roselakecap.com/) |
-| Pham op-ed in Liberian Daily Observer pushing for ratification: December 9, 2024 | Same as above |
+| **J. Peter Pham named as Director of HPX on SEC Form D filed June 18, 2024** (HPX = Ivanhoe Atlantic predecessor name; CIK 0001662195). Promoted to Executive Chairman + Interim CEO Feb 1, 2026 per company press release. Same Form D shows: $324.5M total offering, $193M sold by 6/3/2024 to 14 accredited investors, equity, Reg D 506(b). | [HPX Form D filing](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/sec-form-d/hpx_form-d_2024-06-18.xml) (primary SEC record) |
+| Pham listed on Rose Lake's advisor team page per Wayback Sept 1, 2025 snapshot (since scrubbed) | [Wayback Sept 2025](http://web.archive.org/web/20250901131055/https://www.roselakecap.com/) |
+| Pham simultaneous roles: Trump's former Africa Special Envoy + HPX/Ivanhoe Atlantic Director (now Exec Chairman + Interim CEO) + Rose Lake Capital advisor + Atlantic Council Distinguished Fellow | SEC Form D + Wayback + Liberian Observer + [Atlantic Council](https://www.atlanticcouncil.org/expert/j-peter-pham/) |
+| Pham op-ed in Liberian Daily Observer pushing for ratification: December 9, 2024 | [Liberian Observer](https://www.liberianobserver.com/news/trump-advisor-on-africa-hpx-chairman-says-aml-rail-monopoly-is-against-us-strategic-interests/article_af873562-b5e9-11ef-998a-6fda2b3ac1e3.html) |
+| **Yorktown Solutions** (Daniel Vajdich) registered to lobby for Ivanhoe Atlantic since May 19, 2023 — $120K/quarter — total disclosed ~$1.08M. Lobbyists: Daniel Vajdich (former PSM Senate Foreign Relations Cmte), Brittany Beaulieu (former LA SFRC), Jonathan Gregory. Verbatim issue: "geopolitical importance of iron ore… HPX's development of the Nimba iron ore deposit in Guinea… need for HPX to have access to rail transportation through Liberia… Liberian Presidential Executive Order 112". | [Senate LDA API dump](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/lda-filings/lda-api_ivanhoe-atlantic_full.json) |
+| **Brownstein Hyatt Farber Schreck (BHFS)** registered to lobby for Ivanhoe Atlantic since Q4 2023 — $50K/quarter — total disclosed ~$480K. Primary lobbyist: **Samantha Carl-Yoder**, who was promoted from BHFS lobbyist to Ivanhoe Atlantic non-executive director on Feb 17, 2026 (27 months as registered lobbyist before joining the board). | [Senate LDA API dump](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/lda-filings/lda-api_ivanhoe-atlantic_full.json) + [BHFS press release](https://www.bhfs.com/news-event/samantha-carl-yoder-appointed-to-ivanhoe-atlantics-board-of-directors/) |
+| **Combined disclosed Ivanhoe Atlantic federal lobbying since May 2023: ~$1.56M** | LDA filings (20 quarterly reports) |
+| **Ivanhoe Atlantic ASX IPO shelved Dec 16, 2025** — push to mid-2026 — explicitly because of Moolenaar's China-CCP letter scrutiny. **No prospectus was lodged**, so no substantial-shareholders schedule is publicly available. Joint lead managers: BMO, Euroz Hartleys, Aitken Mount Capital. | [Capital Brief](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/capital-brief_ivanhoe-asx-shelved_2025-12-16.html) |
+| **Ivanhoe Atlantic UK Limited (UK Companies House #08248083, formerly named EURONIMBA UK)**: 0 active PSCs as of May 6, 2026; ceased PSC was Euronimba Limited (Jersey #49971), unwound April 6, 2016. No Mynett, Hoffman, or Rose Lake-affiliated person on the officer roster (current or 22 historical). | [UK Companies House PSC filing](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/uk-companies-house/ivanhoe-atlantic-uk-ltd_08248083_psc.html) + [officers](https://github.com/barkleesanders/doge-phantom-winery/blob/main/archive/uk-companies-house/ivanhoe-atlantic-uk-ltd_08248083_officers.html) |
+| **Euronimba Limited (Jersey FSC Reg #49971)**: Active, registered 23/04/1991, Osprey House St. Helier, JE2 3RG. 46 documents on file (Annual Returns, Special Resolutions, Register of Members) — all available for £0 (Standard Online PDF) via free myRegistry account. Notable: 4 Special Resolutions clustered May–Dec 2020 between HPX's Sept 2019 acquisition and the March 2021 MIGA guarantee. | [Jersey FSC entity page](https://www.jerseyfsc.org/registry/registry-entities/entity/195566) |
+| **HPX/Ivanhoe Liberia ownership chain (per ivanhoeliberia.com)**: HPX → 100% Ivanhoe Liberia Limited (Liberian Business Registry #050971031) + HPX → Euronimba (Jersey) → 95% SMFG (Société des Mines de Fer de Guinée). No Rose Lake / Mynett / Hailer in this chain. | [ivanhoeliberia.com/shareholders-management](https://www.ivanhoeliberia.com/shareholders-management/) |
 
 ## 9. The Walz/Ellison Cover-Up (per Comer's interim report)
 
@@ -252,8 +267,38 @@ Omar has only ONE campaign committee. No leadership PAC, no joint fundraising co
 
 ---
 
-**Total verified facts in this file: 100+**
-**Compiled:** April 25, 2026
-**Cross-references:** [`SOURCES.md`](SOURCES.md) for the master URL list
+## 13. Mynett's Full LLC Portfolio (per OpenCorporates officer search, May 6, 2026)
 
-Per the doge-service skill's hard rules: every fact above is tied to at least one verified URL. None is fabricated.
+OpenCorporates returned 17 officer records for "Timothy Mynett" — a fuller picture than the dossier originally captured.
+
+| Entity | Jurisdiction(s) | Status | Mynett role |
+|---|---|---|---|
+| **MYNETT GROUP, (THE) LLC** | DC, **4616 15th Street NW, Washington DC 20011** (residential) | INACTIVE since 12 Sep 2019 | governor + agent (14 Feb 2014–) |
+| **E STREET GROUP LLC** | DC parent + branches in HI, LA (active), CA (closed 29 Jun 2021), Oregon | Mostly active | governor / member / manager |
+| **ESTREETCO LLC** (separate from E Street Group) | CA parent (closed 16 Jun 2022) + DC branch (revoked 2 Sep 2021), HI, OR, NY (**active, address 80 M St SE FL1 Washington DC 20003** — same as Rose Lake DC), LA, plus an **inactive UK Limited at 1 Kings Avenue London N21 3NA** | Mostly inactive | governor + executingofficer + manager |
+| **ESTCRU LLC** | CA (terminated **April 4, 2026**, [CA SOS](https://bizfileonline.sos.ca.gov/)) + NM branch (active 27 Jul 2022–) + WV branch (closed 6 Apr 2023) | INACTIVE | manager |
+| **EST VENTURES LLC** | DC branch (1 May 2022–) | INACTIVE | (Hailer named as beneficial owner) |
+| **ROSE LAKE CAPITAL LLC** | DE parent (file 6954979) + DC revoked branch | Mixed | president + co-founder |
+
+Source for portfolio map: [OpenCorporates officer search](https://opencorporates.com/officers?q=Timothy+Mynett&utf8=%E2%9C%93) (live-Chrome session May 6, 2026).
+
+## 14. Comer Investigation: Status Post-Deadline
+
+| Fact | Source |
+|---|---|
+| Mynett **missed the Feb 19, 2026 Comer deadline** to produce records | [Fox News Feb 20, 2026](https://www.foxnews.com/politics/omar-calls-gop-probe-husbands-30m-business-surge-political-stunt-records-deadline-passes.amp) |
+| Omar's spokesperson "declined to say whether it had submitted the business records as requested by lawmakers" | Fox News |
+| Omar's office: matter was *"referred to the Ethics Committee, and our office has not received any follow-up"* | Fox News |
+| **No public follow-up letter, subpoena, or contempt referral has been issued against Mynett** as of May 6, 2026 | [oversight.house.gov press releases search May 2026](https://oversight.house.gov/news/press-releases/) |
+| Comer's next major Oversight subpoena (Mar 17, 2026) was AG Pam Bondi on Epstein files — not Mynett | [oversight.house.gov subpoena to Bondi](https://oversight.house.gov/release/chairman-comer-issues-subpoena-to-attorney-general-pam-bondi/) |
+| **eStCru LLC formally terminated April 4, 2026** in California, 9 days after Omar amended FD writing eStCru down to zero net value | [Washington Times Apr 25, 2026](https://www.washingtontimes.com/news/2026/apr/25/winery-tied-ilhan-omars-husband-closes-congress-probes-finances/) |
+
+---
+
+**Total verified facts in this file: 130+**
+**Compiled:** April 25, 2026
+**Last audit:** May 6, 2026 (line-by-line claim review post-Kerr correction)
+**Cross-references:** [`SOURCES.md`](SOURCES.md) for the master URL list, [`2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md`](2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md) for the recent correction memo
+**Primary archive:** [`archive/sec-form-d/`](../archive/sec-form-d/), [`archive/court-filings/`](../archive/court-filings/), [`archive/lda-filings/`](../archive/lda-filings/), [`archive/uk-companies-house/`](../archive/uk-companies-house/), [`archive/miga/`](../archive/miga/)
+
+Per the doge-service skill's hard rules: every fact above is tied to at least one verified URL. None is fabricated. Where a previous claim turned out to be inference rather than primary record, it is now marked with ⚠️ and the correction is linked.
