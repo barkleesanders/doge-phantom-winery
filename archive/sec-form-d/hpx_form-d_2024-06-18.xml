@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001662195</cik>
+        <entityName>High Power Exploration Inc.</entityName>
+        <issuerAddress>
+            <street1>c/o HPX Mines (UK) Limited</street1>
+            <street2>15/16 Pembroke Mews</street2>
+            <city>London</city>
+            <stateOrCountry>X0</stateOrCountry>
+            <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+            <zipCode>W8 6ER</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>(604) 689-8765</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Corporation</entityType>
+        <yearOfInc>
+            <overFiveYears>true</overFiveYears>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>On Yip Patrick</firstName>
+                <lastName>Tsang</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o HPX Mines (UK) Limited</street1>
+                <street2>15/16 Pembroke Mews</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>W8 6ER</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Kenneth</firstName>
+                <lastName>Lau</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o HPX Mines (UK) Limited</street1>
+                <street2>15/16 Pembroke Mews</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>W8 6ER</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>David</firstName>
+                <lastName>Bohem</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o HPX Mines (UK) Limited</street1>
+                <street2>15/16 Pembroke Mews</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>W8 6ER</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Doig</firstName>
+                <lastName>Bradley</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o HPX Mines (UK) Limited</street1>
+                <street2>15/16 Pembroke Mews</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>W8 6ER</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Bronwyn</firstName>
+                <lastName>Barnes</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o HPX Mines (UK) Limited</street1>
+                <street2>15/16 Pembroke Mews</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>W8 6ER</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Robin</firstName>
+                <lastName>Sandenburgh</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o HPX Mines (UK) Limited</street1>
+                <street2>15/16 Pembroke Mews</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>W8 6ER</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>J. Peter</firstName>
+                <lastName>Pham</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o HPX Mines (UK) Limited</street1>
+                <street2>15/16 Pembroke Mews</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <stateOrCountryDescription>UNITED KINGDOM</stateOrCountryDescription>
+                <zipCode>W8 6ER</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Other</industryGroupType>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2024-06-03</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isEquityType>true</isEquityType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>324517914</totalOfferingAmount>
+            <totalAmountSold>193011320</totalAmountSold>
+            <totalRemaining>131506594</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>14</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>High Power Exploration Inc.</issuerName>
+                <signatureName>/s/ William J. Anderson</signatureName>
+                <nameOfSigner>William J. Anderson</nameOfSigner>
+                <signatureTitle>Secretary</signatureTitle>
+                <signatureDate>2024-06-18</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

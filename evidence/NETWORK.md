@@ -118,7 +118,21 @@ How every node connects to every other node. All links Exa-verified or independe
    └──────────────────────────┘                      │
                                                      ▼
                                        ┌──────────────────────────┐
-                                       │ ONLY KNOWN INVESTMENT:   │
+                                       │ ⚠️ PERSONNEL OVERLAP     │
+                                       │   (NOT documented as     │
+                                       │   equity investment —    │
+                                       │   corrected 2026-05-06)  │
+                                       │                          │
+                                       │   Pham: Rose Lake advisor│
+                                       │   + Ivanhoe Atlantic     │
+                                       │   Director (SEC Form D   │
+                                       │   6/18/2024)             │
+                                       │                          │
+                                       │   Whether Rose Lake holds│
+                                       │   equity in Ivanhoe      │
+                                       │   Atlantic is NOT in any │
+                                       │   primary record located.│
+                                       │                          │
                                        │   IVANHOE ATLANTIC       │
                                        │                          │
                                        │ The Liberty Corridor     │
@@ -204,9 +218,9 @@ How every node connects to every other node. All links Exa-verified or independe
 4. State did nothing — $300M (FOF) + $9B (DHS Medicaid) stolen across 14 high-risk programs
 5. State falsified records during audit — OLA Jan 2026, "first time in 27 years" (Auditor Randall)
 6. Mynett's "VC firm" exploded 25,000× same window — Omar 2024 sworn disclosure
-7. Rose Lake's only known investment is in Omar's committee jurisdiction (Ivanhoe Atlantic / Guinea / Liberia)
-8. The investment is 40% Chinese-state-linked at parent — Moolenaar letter Dec 9, 2025
-9. Investment chairman backs it via World Bank MIGA insurance ($123M)
+7. ⚠️ ~~Rose Lake's only known investment is in Omar's committee jurisdiction (Ivanhoe Atlantic / Guinea / Liberia)~~ — **CORRECTED 2026-05-06**: Equity investment NOT documented in any primary record. What IS documented: Pham's overlapping roles (Rose Lake advisor + Ivanhoe Atlantic Director per SEC Form D 6/18/2024). Full correction: [`evidence/2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md`](2026-05-followup-kerr/CORRECTION_AND_NEW_FINDINGS.md)
+8. Ivanhoe Mines (parent of Ivanhoe Atlantic): 40% Chinese-state-linked (CITIC + Zijin) — Moolenaar letter Dec 9, 2025
+9. Ivanhoe Atlantic backed by World Bank MIGA insurance ($123.3M, expired March 11, 2025)
 10. Robert Friedland personally pledged 6.6% of Ivanhoe Mines as collateral
 11. Rail deal ratified 2 days after Moolenaar's State Dept letter
 12. Pham (Rose Lake advisor + HPX/IA Chairman + Trump Africa Envoy) publicly campaigned for it

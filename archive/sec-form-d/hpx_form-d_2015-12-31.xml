@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0707</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001662195</cik>
+        <entityName>High Power Exploration Inc.</entityName>
+        <issuerAddress>
+            <street1>C/O SUITE 654-999 CANADA PLACE</street1>
+            <city>VANCOUVER</city>
+            <stateOrCountry>A1</stateOrCountry>
+            <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+            <zipCode>V6C 3E1</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>(604) 689-8765</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Corporation</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2011</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Robert</firstName>
+                <lastName>Friedland</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Eric</firstName>
+                <lastName>Finlayson</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Mark</firstName>
+                <lastName>Gibson</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Marcus</firstName>
+                <lastName>Birch</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654- 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Penny</firstName>
+                <lastName>Schattenkirk</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Rohan</firstName>
+                <lastName>Wolfe</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Barry</firstName>
+                <lastName>de Wet</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Matthew</firstName>
+                <lastName>Hornor</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Sam</firstName>
+                <lastName>Kenny</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Sarah</firstName>
+                <lastName>Armstrong</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Sam</firstName>
+                <lastName>Riggall</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Catherine</firstName>
+                <lastName>Barone</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ian</firstName>
+                <lastName>Cockerill</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Liva</firstName>
+                <lastName>Mahler</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ian</firstName>
+                <lastName>Plimer</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Laurent</firstName>
+                <lastName>Frescaline</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Tsang On Yip</firstName>
+                <lastName>Patrick</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Zhang</firstName>
+                <lastName>Kun</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>c/o Suite 654 - 999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Other</industryGroupType>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2015-12-16</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isEquityType>true</isEquityType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList></salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>100000000</totalOfferingAmount>
+            <totalAmountSold>100000000</totalAmountSold>
+            <totalRemaining>0</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>13</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>0</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>High Power Exploration Inc.</issuerName>
+                <signatureName>/s/ Penny Schattenkirk</signatureName>
+                <nameOfSigner>Penny Schattenkirk</nameOfSigner>
+                <signatureTitle>Secretary</signatureTitle>
+                <signatureDate>2015-12-30</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>

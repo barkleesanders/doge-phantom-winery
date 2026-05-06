@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0708</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0001879016</cik>
+        <entityName>Ivanhoe Electric Inc.</entityName>
+        <issuerAddress>
+            <street1>606 - 999 CANADA PLACE</street1>
+            <city>VANCOUVER</city>
+            <stateOrCountry>A1</stateOrCountry>
+            <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+            <zipCode>V6C 3E1</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber>604-689-8765</issuerPhoneNumber>
+        <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <edgarPreviousNameList>
+            <value>None</value>
+        </edgarPreviousNameList>
+        <entityType>Corporation</entityType>
+        <yearOfInc>
+            <withinFiveYears>true</withinFiveYears>
+            <value>2020</value>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <issuerList>
+        <issuer>
+            <cik>0001502126</cik>
+            <entityName>I-Pulse Inc.</entityName>
+            <issuerAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>VANCOUVER</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </issuerAddress>
+            <issuerPhoneNumber>604-689-8765</issuerPhoneNumber>
+            <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+            <issuerPreviousNameList>
+                <value>None</value>
+            </issuerPreviousNameList>
+            <edgarPreviousNameList>
+                <value>None</value>
+            </edgarPreviousNameList>
+            <entityType>Corporation</entityType>
+            <yearOfInc>
+                <overFiveYears>true</overFiveYears>
+            </yearOfInc>
+        </issuer>
+    </issuerList>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Robert</firstName>
+                <lastName>Friedland</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Laurent</firstName>
+                <lastName>Frescaline</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Hirofumi</firstName>
+                <lastName>Katase</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Philippe</firstName>
+                <lastName>Boisseau</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ian</firstName>
+                <lastName>Cockerill</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Peter</firstName>
+                <lastName>Meredith</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Guy</firstName>
+                <lastName>de Selliers</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>On Yip (Patrick</firstName>
+                <lastName>Tsang</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Patrick</firstName>
+                <lastName>Sayer</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Kenneth</firstName>
+                <lastName>Lau</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Ian</firstName>
+                <lastName>Plimer</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Arjun</firstName>
+                <lastName>Khullar</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>606-999 Canada Place</street1>
+                <city>Vancouver</city>
+                <stateOrCountry>A1</stateOrCountry>
+                <stateOrCountryDescription>BRITISH COLUMBIA, CANADA</stateOrCountryDescription>
+                <zipCode>V6C 3E1</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Other</industryGroupType>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Decline to Disclose</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06b</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2021-08-03</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isEquityType>true</isEquityType>
+            <isDebtType>true</isDebtType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+            <clarificationOfResponse></clarificationOfResponse>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>0</minimumInvestmentAccepted>
+        <salesCompensationList>
+            <recipient>
+                <recipientName>BMO Nesbitt Burns Inc.</recipientName>
+                <recipientCRDNumber>44057</recipientCRDNumber>
+                <associatedBDName>None</associatedBDName>
+                <associatedBDCRDNumber>None</associatedBDCRDNumber>
+                <recipientAddress>
+                    <street1>1BG Finance Department</street1>
+                    <street2>FCP 7th Floor</street2>
+                    <city>Toronto</city>
+                    <stateOrCountry>A6</stateOrCountry>
+                    <stateOrCountryDescription>ONTARIO, CANADA</stateOrCountryDescription>
+                    <zipCode>A6 M5X 1H3</zipCode>
+                </recipientAddress>
+                <statesOfSolicitationList>
+                    <state>CA</state>
+                    <description>CALIFORNIA</description>
+                    <state>NV</state>
+                    <description>NEVADA</description>
+                    <state>NJ</state>
+                    <description>NEW JERSEY</description>
+                    <state>NY</state>
+                    <description>NEW YORK</description>
+                    <state>NC</state>
+                    <description>NORTH CAROLINA</description>
+                    <state>TX</state>
+                    <description>TEXAS</description>
+                </statesOfSolicitationList>
+                <foreignSolicitation>false</foreignSolicitation>
+            </recipient>
+        </salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>80000000</totalOfferingAmount>
+            <totalAmountSold>71389960</totalAmountSold>
+            <totalRemaining>8610040</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>39</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>2166134</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>true</authorizedRepresentative>
+            <signature>
+                <issuerName>Ivanhoe Electric Inc.</issuerName>
+                <signatureName>/s/ Sam Kenny</signatureName>
+                <nameOfSigner>Sam Kenny</nameOfSigner>
+                <signatureTitle>Secretary</signatureTitle>
+                <signatureDate>2021-08-18</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>
