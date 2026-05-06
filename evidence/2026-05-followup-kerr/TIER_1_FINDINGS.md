@@ -99,3 +99,17 @@ HPX Nimba Holdings Inc. is named in the SES SPAC 10-K (CIK 1819142, accession 00
 ### Thread 8 — Pratt: Wayback archive empty
 The CDX index for `roselakecap.com/justinpratt` returns `[]` — Wayback never captured the individual bio page. Only the team-page snapshot (Oct 29, 2024 capture) confirms his "Partner" title with no further detail. **The "5 Diplomats" headline stat on the team page** (Hailer/Mynett/Hoffman are not diplomats; Mestrich is banking; explicit diplomats listed are Pham, Ereli, Baucus = 3) suggests Pratt is being COUNTED as a diplomat in the firm's marketing, alongside one of Healy or Pratt being the 4th and another being the 5th. This circumstantially supports a State Dept / foreign-service background. The Jonathan Pratt name-conflation hypothesis remains open and worth direct verification with Mynett.
 
+
+---
+
+## Round 3 updates (2026-05-06 evening)
+
+### Thread 4 — Erik Bethel MIGA Nimba vote — RESOLVED NEGATIVE
+Bethel served as US Alternate ED at the World Bank 2018–2020. The MIGA Nimba guarantee was approved by the Board on **February 18, 2021** (issuance March 12, 2021). Bethel had departed the World Bank before the vote. Documented in [MIGA_BOARD_APPROVAL_TIMING.md](MIGA_BOARD_APPROVAL_TIMING.md). Removes one revolving-door theory.
+
+### Thread 3 — Daniel Pfeffer — RESOLVED via Ivanhoe Electric S-1
+Pfeffer appears in IE's S-1 selling-shareholder table with 21,781 shares — small-holder employee scale, not investor. Documented in [PFEFFER_IVANHOE_ELECTRIC.md](PFEFFER_IVANHOE_ELECTRIC.md). His role is operational (Friedland chief of staff), not financier-of-record.
+
+### New: Friedland 39-entity portfolio extracted
+SES SPAC 10-K's officer-conflicts table is the most comprehensive single primary-source listing of Friedland's corporate footprint. Documented in [FRIEDLAND_PORTFOLIO_SES_10K.md](FRIEDLAND_PORTFOLIO_SES_10K.md). Confirms HPX Nimba Holdings Inc. as a Friedland-controlled BVI/asset-holding entity without requiring the BVI registry.
+
